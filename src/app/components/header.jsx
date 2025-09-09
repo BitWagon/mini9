@@ -83,7 +83,7 @@ export default function NavHeader() {
           >
             <Link href="/" className="block hover:text-purple-400">Home</Link>
             <Link href="/news" className="block hover:text-purple-400">News</Link>
-            <Link href="/reviews" className="block hover:text-purple-400">Reviews</Link>
+            <Link href="/review" className="block hover:text-purple-400">Reviews</Link>
             <Link href="/tournaments" className="block hover:text-purple-400">Tournaments</Link>
             <Link href="/community" className="block hover:text-purple-400">Community</Link>
             <Link href="/store" className="block hover:text-purple-400">Store</Link>
